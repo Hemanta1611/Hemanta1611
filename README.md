@@ -1,54 +1,99 @@
 <h1 align="center">Hi 👋, I'm Hemanta Kumar Bhoi</h1>
-<h3 align="center">Aspiring Tech Leader | Engineering Student (AI & ML) | MERN Stack & GenAI Explorer</h3>
+<h3 align="center">Engineering Student (AI & ML) | GenAI & Full Stack Explorer | Aspiring Tech Leader 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanta1611&label=Profile%20views&color=0e75b6&style=flat" alt="hemanta1611" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hemanta1611&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanta1611" alt="hemanta1611" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanta1611&theme=dracula" alt="GitHub Trophies" /></a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/hemanta1611" target="blank"><img src="https://img.shields.io/twitter/follow/hemanta1611?logo=twitter&style=for-the-badge" alt="hemanta1611" /></a> </p>
+<p align="center">
+  <a href="https://twitter.com/hemanta1611" target="blank"><img src="https://img.shields.io/twitter/follow/hemanta1611?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
+</p>
 
-- 🔭 I’m currently working on [Tech Content Classifier (Text & Video)](https://github.com/Hemanta1611)
+---
 
-- 🌱 I’m currently learning **Data Science Bootcamp | Advanced DSA (DP + Graphs) | AWS & DevOps (Foundations) | Content creation for YouTube & Twitter**
+### 👨‍💻 About Me
 
-- 👯 I’m looking to collaborate on [GenAI-powered personal assistant (local chatbot with memory, MERN + LLM APIs)](https://github.com/Hemanta1611)
+- 🔭 I’m currently building: [Tech Content Classifier (Text + Video)](https://github.com/Hemanta1611) using multimodal ML  
+- 🌱 Learning: **Advanced DSA (DP + Graphs), Data Science Bootcamp, AWS & DevOps Foundations**  
+- 🧠 Exploring: **GenAI, LangChain, OpenAI API, Vector DBs, LLM tooling, Agentic Workflows**  
+- 🎯 Career Goal: Big Tech, product-based startups & research-driven GenAI companies  
+- 📹 Soon Launching: **YouTube & Twitter content on ML, DL, GenAI & Projects (voiceover + screen-record)**  
+- 🛠️ I believe in **building in public** — sharing my journey, wins & struggles transparently
 
-- 🤝 I’m looking for help with [Video content classification using multimodal ML (frames + audio)](https://github.com/Hemanta1611)
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hemanta1611](https://github.com/Hemanta1611)
+### 🤝 Looking to Collaborate On
 
-- 💬 Ask me about **Machine Learning & GenAI | MERN stack OpenAI & LangChain | DSA in C++**
+- 🧑‍💻 [GenAI-powered personal assistant (LLM + Memory + MERN)](https://github.com/Hemanta1611)  
+- 🔉 Multimodal video classification (Audio + Frames + Text) using deep learning  
+- 💡 Exciting ML/GenAI ideas that require DSA knowledge or LLM integration
 
-- 📫 How to reach me **hemantabhoi16112003@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1SlUshFyHCq60yI47mRsCaYbGtqw2yHyL](https://drive.google.com/drive/folders/1SlUshFyHCq60yI47mRsCaYbGtqw2yHyL)
+### 💬 Ask Me About
 
-- ⚡ Fun fact **I’m building my future one project at a time — documenting, sharing, and creating value while aiming for Big Tech and beyond!**
+- Machine Learning, GenAI & Prompt Engineering  
+- MERN Stack, OpenAI, LangChain, Hugging Face  
+- C++ DSA, Python Automation, and deploying ML apps
 
-### Blogs posts
+---
+
+### 📫 Connect With Me
+
+- 📧 **hemantabhoi16112003@gmail.com**  
+- 💼 [Portfolio & Resume Folder](https://drive.google.com/drive/folders/1SlUshFyHCq60yI47mRsCaYbGtqw2yHyL)  
+- 🧠 Medium: [@hemantabhoi16112003](https://medium.com/@hemantabhoi16112003)  
+- 🐦 Twitter/X: [@hemanta1611](https://twitter.com/hemanta1611)  
+- 📺 YouTube (coming soon): [@hemanta1611](https://www.youtube.com/c/@hemanta1611)  
+- 💻 All Projects: [GitHub @Hemanta1611](https://github.com/Hemanta1611)
+
+---
+
+### 🔥 Fun Fact  
+I’m documenting my journey to Big Tech and beyond — one project, post, and problem at a time.
+
+---
+
+### 🧠 Currently Practicing On
+
+- [LeetCode](https://www.leetcode.com/hemanta1611) (250+ questions solved)  
+- [Codeforces](https://codeforces.com/profile/hemanta1611)  
+- [HackerRank](https://www.hackerrank.com/hemantabhoi16111)  
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/hemanta1611/)  
+- [CodeChef](https://www.codechef.com/users/hemantai1611)
+
+---
+
+### 🛠️ Languages & Tools
+
+<!-- List is long but useful. Remove the least relevant later if needed -->
+<p align="left">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jupyter_logo.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📚 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/hemanta.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hemanta.dev" height="30" width="40" /></a>
-<a href="https://twitter.com/hemanta1611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemanta1611" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hemanta-bhoi-14ba70230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanta-bhoi-14ba70230/" height="30" width="40" /></a>
-<a href="https://kaggle.com/hemanta1611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hemanta1611" height="30" width="40" /></a>
-<a href="https://medium.com/@hemantabhoi16112003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hemantabhoi16112003" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@hemanta1611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hemanta1611" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/hemantai1611" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hemantai1611" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hemantabhoi16111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hemantabhoi16111" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hemanta1611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hemanta1611" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hemanta1611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hemanta1611" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hemanta1611/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hemanta1611/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+> 📌 _“Consistency compounds. Just one good commit, script, or video at a time.”_
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanta1611&show_icons=true&locale=en&layout=compact" alt="hemanta1611" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemanta1611&show_icons=true&locale=en" alt="hemanta1611" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanta1611&" alt="hemanta1611" /></p>
